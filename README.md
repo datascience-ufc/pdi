@@ -10,3 +10,11 @@
 + OpenCV
 + Câmera INX219PQ
 
+# Roadmap
+
++ Representação de imagens em codificação RGB e níveis de cinza (matriz cúbica RGB)
++ Extração de Características
+  - Algoritmo SIFT
++ Classificação
+  - Classificador Binário e Separador de Planos
+  - Transformada de HaaR WaveLet (usado em classificação de rostos)
