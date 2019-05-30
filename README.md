@@ -16,5 +16,8 @@
 + Extração de Características
   - Algoritmo SIFT
 + Classificação
+  - Distância ao Centróide
   - Classificador Binário e Separador de Planos
   - Transformada de HaaR WaveLet (usado em classificação de rostos)
++ Clusterização
+  - k-means
